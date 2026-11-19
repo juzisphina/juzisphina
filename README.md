@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFE0B2,50:FFB074,100:FF8A65&text=Hi,%20I'm%20Juzi%20🍊&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=sweet%20·%20sunny%20·%20curious&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=190&color=0:FFD7A8,50:FFB074,100:FF8A65&text=Hi,%20I'm%20Juzi%20🍊&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=sweet%20·%20sunny%20·%20curious&descAlignY=66&descSize=18" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=800&color=FF8C42&center=true&vCenter=true&width=520&lines=Welcome+to+my+little+orange+garden+%F0%9F%8C%B8;Learning+something+new+every+day+%E2%9C%A8;Small+steps%2C+warm+heart+%F0%9F%A7%A1" alt="typing" />
@@ -35,4 +35,4 @@
   <i>🧡 Thanks for stopping by — have a juicy day! 🍊</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF8A65,50:FFB074,100:FFE0B2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&section=footer&color=0:FF8A65,50:FFB074,100:FFD7A8" width="100%" />
