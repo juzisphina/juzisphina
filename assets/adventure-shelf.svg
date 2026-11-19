@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 190" width="800" height="190" role="img" aria-label="cute adventure items on a shelf">
+  <style>
+    .b1{animation:bob 2.6s ease-in-out infinite}
+    .b2{animation:bob 2.6s ease-in-out .5s infinite}
+    .b3{animation:bob 2.6s ease-in-out 1s infinite}
+    .b4{animation:bob 2.6s ease-in-out 1.5s infinite}
+    .tw{animation:tw 1.8s ease-in-out infinite}
+    .tw2{animation:tw 1.8s ease-in-out .9s infinite}
+    @keyframes bob{50%{transform:translateY(-5px)}}
+    @keyframes tw{50%{opacity:.2}}
+    text{font-family:'Segoe UI','Microsoft JhengHei',sans-serif}
+  </style>
+  <!-- shelf -->
+  <rect x="40" y="150" width="720" height="14" rx="7" fill="#E9A66B"/>
+  <rect x="40" y="160" width="720" height="8" rx="4" fill="#C9844C"/>
+  <rect x="90" y="166" width="10" height="18" rx="3" fill="#C9844C"/>
+  <rect x="700" y="166" width="10" height="18" rx="3" fill="#C9844C"/>
+
+  <!-- 1. mushroom friend -->
+  <g class="b1" style="transform-box:fill-box">
+    <ellipse cx="120" cy="150" rx="30" ry="4" fill="#000" opacity=".08"/>
+    <path d="M104 118h32v26a6 6 0 0 1-6 6h-20a6 6 0 0 1-6-6z" fill="#FFF3E3"/>
+    <circle cx="113" cy="131" r="3" fill="#5D4037"/><circle cx="127" cy="131" r="3" fill="#5D4037"/>
+    <path d="M116 138q4 4 8 0" stroke="#5D4037" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <ellipse cx="108" cy="137" rx="3.5" ry="2" fill="#FF8FA3" opacity=".6"/><ellipse cx="132" cy="137" rx="3.5" ry="2" fill="#FF8FA3" opacity=".6"/>
+    <path d="M86 120c0-24 16-38 34-38s34 14 34 38c0 4-3 5-6 5H92c-3 0-6-1-6-5z" fill="#FF8A65"/>
+    <circle cx="104" cy="100" r="6" fill="#FFF3E3"/><circle cx="128" cy="94" r="5" fill="#FFF3E3"/><circle cx="141" cy="111" r="4.5" fill="#FFF3E3"/><circle cx="99" cy="116" r="3.5" fill="#FFF3E3"/>
+  </g>
+
+  <!-- 2. potions -->
+  <g class="b2" style="transform-box:fill-box">
+    <ellipse cx="230" cy="150" rx="36" ry="4" fill="#000" opacity=".08"/>
+    <rect x="200" y="96" width="14" height="10" rx="2" fill="#B07A52"/>
+    <path d="M203 106h8v8c10 4 14 12 14 20a18 18 0 0 1-36 0c0-8 4-16 14-20z" fill="#FFE1E6"/>
+    <path d="M190 132a17 17 0 0 0 34 0z" fill="#FF6F86"/>
+    <circle cx="199" cy="124" r="3" fill="#fff" opacity=".8"/>
+    <rect x="246" y="102" width="12" height="9" rx="2" fill="#B07A52"/>
+    <path d="M248 111h8v6c8 3 11 9 11 15a15 15 0 0 1-30 0c0-6 3-12 11-15z" fill="#E3F0FF"/>
+    <path d="M238 134a14 14 0 0 0 28 0z" fill="#6FA8FF"/>
+    <circle cx="245" cy="128" r="2.5" fill="#fff" opacity=".8"/>
+  </g>
+
+  <!-- 3. orange coin pouch -->
+  <g class="b3" style="transform-box:fill-box">
+    <ellipse cx="340" cy="150" rx="34" ry="4" fill="#000" opacity=".08"/>
+    <path d="M314 120c0-14 12-22 26-22s26 8 26 22v14c0 9-7 16-16 16h-20c-9 0-16-7-16-16z" fill="#F4C27A"/>
+    <path d="M322 100q18 10 36 0" stroke="#C98A3C" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M330 96l-6-10M350 96l6-10" stroke="#C98A3C" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="340" cy="128" r="11" fill="#FFA24C"/><path d="M340 117c0-4 3-6 6-7-1 4-3 6-6 7z" fill="#7BC67E"/>
+    <circle cx="372" cy="146" r="7" fill="#FFD166" stroke="#E0A93A" stroke-width="2"/>
+    <circle cx="384" cy="148" r="5" fill="#FFD166" stroke="#E0A93A" stroke-width="2"/>
+  </g>
+
+  <!-- 4. little orange buddy (juzi) -->
+  <g class="b4" style="transform-box:fill-box">
+    <ellipse cx="460" cy="150" rx="30" ry="4" fill="#000" opacity=".08"/>
+    <circle cx="460" cy="118" r="30" fill="#FFA24C"/>
+    <path d="M460 89c-1-8 3-14 11-15-1 8-5 13-11 15z" fill="#7BC67E"/>
+    <circle cx="450" cy="118" r="3.5" fill="#5D4037"/><circle cx="470" cy="118" r="3.5" fill="#5D4037"/>
+    <path d="M455 126q5 5 10 0" stroke="#5D4037" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <ellipse cx="442" cy="126" rx="4.5" ry="2.5" fill="#FF7A8A" opacity=".55"/><ellipse cx="478" cy="126" rx="4.5" ry="2.5" fill="#FF7A8A" opacity=".55"/>
+    <path d="M488 104l12-6" stroke="#FF8FA3" stroke-width="3" stroke-linecap="round"/>
+    <path d="M500 92l4 8-8 2z" fill="#FF8FA3"/>
+  </g>
+
+  <!-- 5. scroll + quill -->
+  <g class="b1" style="transform-box:fill-box">
+    <ellipse cx="572" cy="150" rx="40" ry="4" fill="#000" opacity=".08"/>
+    <rect x="540" y="108" width="64" height="38" rx="4" fill="#FFF3D6"/>
+    <rect x="534" y="104" width="10" height="46" rx="5" fill="#E9C48E"/>
+    <rect x="600" y="104" width="10" height="46" rx="5" fill="#E9C48E"/>
+    <path d="M552 120h40M552 128h34M552 136h28" stroke="#E0B58A" stroke-width="3" stroke-linecap="round"/>
+    <path d="M598 98c10-12 22-14 26-12-4 6-14 14-24 16z" fill="#F8A5C2"/>
+    <path d="M598 102l-8 14" stroke="#B07A52" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- 6. star lamp -->
+  <g class="b2" style="transform-box:fill-box">
+    <ellipse cx="685" cy="150" rx="26" ry="4" fill="#000" opacity=".08"/>
+    <rect x="681" y="118" width="8" height="30" rx="3" fill="#C9844C"/>
+    <rect x="670" y="142" width="30" height="8" rx="4" fill="#E9A66B"/>
+    <path d="M685 82l7 14 15 2-11 10 3 15-14-7-14 7 3-15-11-10 15-2z" fill="#FFD166" stroke="#F4A93A" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="680" cy="102" r="2" fill="#5D4037"/><circle cx="690" cy="102" r="2" fill="#5D4037"/>
+  </g>
+
+  <!-- sparkles -->
+  <g fill="#FFB074">
+    <path class="tw" d="M175 70l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/>
+    <path class="tw2" d="M410 60l2.5 6 6 2.5-6 2.5-2.5 6-2.5-6-6-2.5 6-2.5z"/>
+    <path class="tw" d="M640 58l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/>
+  </g>
+  <g fill="#F8A5C2">
+    <circle class="tw2" cx="290" cy="70" r="3"/>
+    <circle class="tw" cx="520" cy="76" r="3"/>
+    <circle class="tw2" cx="740" cy="90" r="3"/>
+  </g>
+</svg>
