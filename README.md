@@ -34,11 +34,11 @@
 **📢 最新公告**（自動更新）
 
 <!-- ARTALE:START -->
+- 🍊 `2026.11.24` [11/24（二）Artale World 更新公告](https://artale.live/tw/news/nhu9jlw3c31hxlfz55jk657u)
+- 🛍️ `2026.11.24` [11/24（二）Artale World 購物商場更新公告](https://artale.live/tw/news/abbrbrf049pp5ovm0hh2kz1g)
+- 🎉 `2026.11.24` [11/24（二）Artale World 創作者同樂會！特別序號活動公告 Part.2](https://artale.live/tw/news/s8327xod0zq9qvaxrvr3p6z3)
+- 🎉 `2026.11.24` [11/24（二）皇家騎士團登場紀念活動](https://artale.live/tw/news/cqlht8fzxkriqqavn37k3g9g)
 - 🔧 `2026.11.23` [11/24（二）Artale World 維護公告](https://artale.live/tw/news/evh3kazstkkub1dkl8tfaier)
-- 🍊 `2026.11.18` [冒險家們已經找到序號了？35組創作者兌換券公開！](https://artale.live/tw/news/qbd75l25nnyw1hsdcwe24ei9)
-- 🍊 `2026.11.17` [11/17（二）Artale World 更新公告(更正)](https://artale.live/tw/news/tsijzkrlsgtxs4f4aopbz7pe)
-- 🛍️ `2026.11.17` [11/17（二）Artale World 購物商場更新公告](https://artale.live/tw/news/r5ante5jjk0sblhjcu35wpqu)
-- 🎉 `2026.11.17` [11/17（二）Artale World 創作者同樂會！特別序號活動公告](https://artale.live/tw/news/zyxsxrz0z1mevamwmka7owv5)
 <!-- ARTALE:END -->
 
 ---
